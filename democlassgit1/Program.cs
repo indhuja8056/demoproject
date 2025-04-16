@@ -10,6 +10,12 @@ namespace democlassgit1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("enter a number a");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter a number b");
+            int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("add"+ (a+b));
+
         }
     }
 }
