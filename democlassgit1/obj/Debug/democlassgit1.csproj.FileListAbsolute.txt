@@ -1,2 +1,7 @@
 C:\Users\ADMIN\AppData\Local\Temporary Projects\democlassgit1\bin\Debug\democlassgit1.exe.config
 C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\bin\Debug\democlassgit1.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\obj\Debug\democlassgit1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\bin\Debug\democlassgit1.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\bin\Debug\democlassgit1.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\obj\Debug\democlassgit1.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\democlassgit1\democlassgit1\obj\Debug\democlassgit1.pdb
